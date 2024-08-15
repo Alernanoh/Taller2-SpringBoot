@@ -21,8 +21,8 @@ com/ecom/repository/ProductOrderRepository.class
 com/ecom/repository/ProductRepository.class
 com/ecom/controller/AdminController.class
 com/ecom/config/AuthFailureHandlerImpl.class
-com/ecom/model/UserDtls.class
 com/ecom/service/CategoryService.class
+com/ecom/model/UserDtls.class
 com/ecom/service/impl/CategoryServiceImpl.class
 com/ecom/model/Product.class
 com/ecom/service/UserService.class
